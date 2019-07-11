@@ -1,0 +1,21 @@
+{
+  "name": "selfbot-msg-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "selfbot.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "discord",
+    "selfbot",
+    "logger",
+    "msg",
+    "message"
+  ],
+  "author": "FrachlitzStudio#0392",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
