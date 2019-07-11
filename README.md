@@ -1,8 +1,8 @@
 # Discord Message Logger SelfBot
 
 ## About
-Discord Selfbot, that logs deleted and edited messages. 
-**This bot saves not only messages, but also images/files.**
+Discord Selfbot, that logs deleted and edited messages.  
+**This selfbot saves not only messages, but also images/files.**
 
 ## Installation
 1. Install [Node.js](https://nodejs.org/).
@@ -12,7 +12,8 @@ Discord Selfbot, that logs deleted and edited messages.
   * ```git clone https://github.com/FrachlitzStudio/MessageLoggerSelfbot.git```
   * ```cd MessageLoggerSelfbot```
   * ```npm install```
-5. Edit the ```config.json``` file.
+5. Edit the ```config.json``` file.  
+PS. If you want to add servers to the blacklist, also edit the ```selfbot.js``` file. The instruction is inside this file.
 
 ## Starting the bot
 Open command prompt and type ```node selfbot.js``` or just open the ```start.bat``` file.
