@@ -22,4 +22,4 @@ Open command prompt and type ```node selfbot.js``` or just open the ```start.bat
 ![Preview](https://i.imgur.com/37sbRfa.png)
 
 ## Contacts
-Discord: FrachlitzStudio#0392
+**Discord:** FrachlitzStudio#0392
