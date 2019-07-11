@@ -1,5 +1,8 @@
 # Discord Message Logger SelfBot
 
+## WARNING
+Selfbots are prohibited by Discord. I am not responsible if you get banned from Discord or any guilds.
+
 ## About
 Discord Selfbot, that logs deleted and edited messages.  
 **This selfbot saves not only messages, but also images/files.**
@@ -20,6 +23,3 @@ Open command prompt and type ```node selfbot.js``` or just open the ```start.bat
 
 ## Logs preview
 ![Preview](https://i.imgur.com/37sbRfa.png)
-
-## Contacts
-**Discord:** FrachlitzStudio#0392
